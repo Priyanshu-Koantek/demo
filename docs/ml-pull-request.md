@@ -48,8 +48,8 @@ jobs in staging and production will automatically use your updated ML code.
 You can track the state of the ML pipelines for the current project from the MLflow registered model UI. 
 
 Links:
-* [Staging model in UC](https://adb-xxxx.xx.azuredatabricks.net/explore/data/models/staging/my_mlops_project/my_mlops_project-model)
-* [Prod model in UC](https://adb-xxxx.xx.azuredatabricks.net/explore/data/models/prod/my_mlops_project/my_mlops_project-model)
+* [Staging model in UC](https://adb-5244601605601666.6.azuredatabricks.net/explore/data/models/staging/my_mlops_project/my_mlops_project-model)
+* [Prod model in UC](https://adb-5244601605601666.6.azuredatabricks.net/explore/data/models/prod/my_mlops_project/my_mlops_project-model)
 . 
 
 
